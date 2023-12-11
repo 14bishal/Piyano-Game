@@ -1,5 +1,5 @@
 import { FC } from 'react';
-import PianoComponent from '../components';
+import PianoComponent from './components';
 
 import './style.css';
 
